@@ -1,0 +1,4 @@
+1. Field to put my JD
+2. UPload pdf
+3. Convert pdf to image ----> processing --> gemini pro
+4. Prompts Template [Multiple Prompts]

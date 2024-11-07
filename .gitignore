@@ -1,0 +1,12 @@
+# Ignore virtual environment
+myenv/
+
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore system files
+.DS_Store
+*.log
+
+# Ignore environment variables file (if sensitive)
+.env
